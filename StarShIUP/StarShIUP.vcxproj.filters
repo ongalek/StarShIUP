@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMenu.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="VanyaGame.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Heroes.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionObject.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="BloksTable.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="VanyaProjectile.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverScene.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="YouWinScene.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="InfoScene.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="AboutScene.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameManager.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMenu.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ship.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpaceShipScene.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="VanyaGame.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Heroes.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionObject.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="BloksTable.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="VanyaProjectile.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverScene.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="YouWinScene.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="InfoScene.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="AboutScene.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
